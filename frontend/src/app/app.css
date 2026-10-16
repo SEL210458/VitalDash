@@ -1,0 +1,22 @@
+.topbar {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #0b5394;
+  color: #fff;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.subtitle {
+  opacity: 0.85;
+  font-size: 0.9rem;
+}
+
+.content {
+  padding: 1.5rem;
+}
